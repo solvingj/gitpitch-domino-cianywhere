@@ -11,7 +11,7 @@
 ## Bincrafters
 *Open-Source Devops Team* 
 
-![Image](./assets/md/assets/BcCube128.png)
+![Image](assets/BcCube128.png)
 
 ---
 ### Find Us Online
@@ -24,12 +24,12 @@
 ---
 ### Projects on Github
 
-![Image](./assets/md/assets/BcGithub.png)
+![Image](assets/BcGithub.png)
 
 ---
 ### Packages on Bintray
 
-![Image](./assets/md/assets/BcBintray.png)
+![Image](assets/BcBintray.png)
 
 ---
 ### CI Anywhere - CI Abstraction Layer
