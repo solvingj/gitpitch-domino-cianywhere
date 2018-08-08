@@ -24,12 +24,12 @@
 ---
 ### Projects on Github
 
-![Image](assets/BcGithub.png)
+![Image](assets/BcGithub.PNG)
 
 ---
 ### Packages on Bintray
 
-![Image](assets/BcBintray.png)
+![Image](assets/BcBintray.PNG)
 
 ---
 ### CI Anywhere - CI Abstraction Layer
